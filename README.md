@@ -24,9 +24,14 @@ Enter your github username as a string on line 1 of language-lover.js
 ![username](readme-files/username.png)
 
 
+#### create the target <svg>:
+The chart will load where you place the svg element
+
+![username](readme-files/svg.png)
+
 #### formatting the height & width of the chart:
 
-change the value that "innerWidth" or "innerHeight" is divided by to change the width/height of the chart in relation to window size
+Change the value that "innerWidth" or "innerHeight" is divided by to change the width/height of the chart in relation to window size
 
 ![Chart Size](readme-files/size.png)
 
