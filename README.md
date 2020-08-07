@@ -11,7 +11,7 @@ A script that uses D3.js and the github api to compile a bar graph that shows th
 
 Below are the links you will need in your HTML Head for language-lover.js to function properly
 
-![HTML Head](readme-img/headLinks.png)
+![HTML Head](readme-files/headLinks.png)
 
 you can find the up-to-date links below:
 * https://d3js.org/
